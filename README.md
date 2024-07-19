@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- ⚡ Aspiring __Machine Learning Engineer__ <br>- Currently: __Data Analyst Intern__ <br><br><br>   
+- ⚡ Aspiring __Machine Learning Engineer__ <br>
+   Currently: __Data Analyst Intern__ <br><br><br>   
 - 🌱 Master of Science in __Data Science__ <br>
    ✨University of the Witwatersrand, Johannesburg
 <br>
