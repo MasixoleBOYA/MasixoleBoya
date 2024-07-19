@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 # 💫 About Me
 - ⚡ Aspiring __Machine Learning Engineer__ <br>
      Currently: __Data Analyst Intern__ <br>  
 - 🌱 Master of Science in __Data Science__ <br>
-   ✨University of the Witwatersrand, Johannesburg
+   ✨University of the Witwatersrand, Johannesburg 
+   -->
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/el200064) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/masixole-boya) 
