@@ -20,8 +20,6 @@ Here are some ideas to get you started:
      Currently: __Data Analyst Intern__ <br>  
 - 🌱 Master of Science in __Data Science__ <br>
    ✨University of the Witwatersrand, Johannesburg
-<br>
-- 📫 How to reach me: _masixoleboya1@gmail.com_
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/el200064) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/masixole-boya) 
